@@ -2,7 +2,7 @@ import { sum } from "./sum.js";
 
 describe("sum function", () => {
   it("should sum up 1 and 1 and return 2", () => {
-    expect(sum(1, 1)).toBe(3);
+    expect(sum(1, 1)).toBe(2);
   });
 
   it("should throw an error when passed arg is not number", () => {
