@@ -10,8 +10,6 @@ describe("sum function", () => {
   });
 
   it("should be able handle long number decimal and return two decimal places", () => {
-    expect(
-      sum(1.19237918237918, 2.128379182739)
-    ).toBe(3.32);
+    expect(sum(1.192379182, 2.128379)).toBe(3.32);
   });
 });
