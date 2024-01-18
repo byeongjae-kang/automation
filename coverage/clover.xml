@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1705606072759" clover="3.2.0">
+  <project timestamp="1705606072759" name="All files">
+    <metrics statements="8" coveredstatements="8" conditionals="4" coveredconditionals="4" methods="3" coveredmethods="3" elements="15" coveredelements="15" complexity="0" loc="8" ncloc="8" packages="1" files="1" classes="1"/>
+    <file name="sum.js" path="/Users/bart/ciccc/oop/w2d3/jest/src/sum/sum.js">
+      <metrics statements="8" coveredstatements="8" conditionals="4" coveredconditionals="4" methods="3" coveredmethods="3"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="2" count="4" type="cond" truecount="2" falsecount="0"/>
+      <line num="3" count="11" type="stmt"/>
+      <line num="7" count="3" type="stmt"/>
+      <line num="8" count="7" type="cond" truecount="2" falsecount="0"/>
+      <line num="9" count="1" type="stmt"/>
+      <line num="12" count="4" type="stmt"/>
+      <line num="14" count="2" type="stmt"/>
+    </file>
+  </project>
+</coverage>
